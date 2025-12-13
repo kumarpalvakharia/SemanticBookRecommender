@@ -49,3 +49,33 @@ This project follows a specific data processing pipeline. The files are ordered 
 ```bash
 git clone <YOUR_REPO_URL>
 cd <YOUR_REPO_NAME>
+```
+
+### 2. Set up a Virtual Environment
+```bash
+# Windows
+python -m venv venv
+.\venv\Scripts\Activate
+
+# Mac/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure Environment Variables
+```bash
+OPENAI_API_KEY=your_actual_api_key_here
+```
+
+### 5. Run the Application
+```bash
+python gradio-dashboard.py
+```
+
+
+
