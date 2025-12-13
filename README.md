@@ -1,10 +1,9 @@
 # Semantic Book Recommender
 
-# Semantic Book Recommender
-
 A semantic search engine for books powered by Large Language Models (LLMs). Unlike traditional keyword search, this application allows users to find books based on natural language descriptions, plot summaries, "vibes," or specific emotions (e.g., *"a dark mystery set in Victorian London"* or *"a book about a robot learning to love"*).
 
-![Uploading image.png…]()
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/5ece79e1-e013-4a6a-86cd-e8aa8fa800f9" />
+
 
 
 ## 🚀 Features
