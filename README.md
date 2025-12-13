@@ -4,6 +4,9 @@
 
 A semantic search engine for books powered by Large Language Models (LLMs). Unlike traditional keyword search, this application allows users to find books based on natural language descriptions, plot summaries, "vibes," or specific emotions (e.g., *"a dark mystery set in Victorian London"* or *"a book about a robot learning to love"*).
 
+![Uploading image.png…]()
+
+
 ## 🚀 Features
 
 * **Semantic Search:** Uses OpenAI embeddings and ChromaDB to find books based on meaning, not just exact keyword matches.
