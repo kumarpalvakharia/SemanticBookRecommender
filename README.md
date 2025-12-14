@@ -6,14 +6,14 @@ A semantic search engine for books powered by Large Language Models (LLMs). Unli
 
 
 
-## 🚀 Features
+##  Features
 
 * **Semantic Search:** Uses OpenAI embeddings and ChromaDB to find books based on meaning, not just exact keyword matches.
 * **Emotion Filtering:** Filters books based on emotional tone (Happy, Suspenseful, Sad, etc.) extracted via LLM analysis.
 * **Zero-Shot Classification:** Categorizes books into fiction/non-fiction using generative AI techniques.
 * **Interactive Dashboard:** A clean, user-friendly web interface built with **Gradio**.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python 3.9+
 * **LLM Framework:** LangChain
@@ -22,7 +22,7 @@ A semantic search engine for books powered by Large Language Models (LLMs). Unli
 * **Interface:** Gradio
 * **Data Processing:** Pandas, NumPy
 
-## 📂 Project Pipeline
+##  Project Pipeline
 
 This project follows a specific data processing pipeline. The files are ordered by their execution flow:
 
@@ -45,7 +45,7 @@ This project follows a specific data processing pipeline. The files are ordered 
 * **Purpose:** The final production file. It combines the cleaned data, the vector database, and the sentiment metadata into a polished web application.
 * **Action:** Run this file to launch the search engine.
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
